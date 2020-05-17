@@ -1,0 +1,23 @@
+{
+  "name": "entity",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "xmm <876042606@qq.com>",
+  "homepage": "https://github.com/maomaofreedom/nest-app#readme",
+  "license": "ISC",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maomaofreedom/nest-app.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/maomaofreedom/nest-app/issues"
+  },
+  "dependencies": {
+    "typeorm": "^0.2.24",
+    "typescript": "^3.9.2"
+  }
+}

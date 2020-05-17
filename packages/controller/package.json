@@ -1,9 +1,9 @@
 {
-  "name": "utils",
+  "name": "controller",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "xmm <876042606@qq.com>",
-  "homepage": "",
+  "homepage": "https://github.com/maomaofreedom/nest-app#readme",
   "license": "ISC",
   "main": "index.ts",
   "directories": {
@@ -13,11 +13,14 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maomaofreedom/nest-app.git"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "dependencies": {
-    "lerna": "^3.21.0",
-    "typescript": "^3.9.2"
+  "bugs": {
+    "url": "https://github.com/maomaofreedom/nest-app/issues"
   }
 }
