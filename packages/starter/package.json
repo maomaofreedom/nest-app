@@ -1,14 +1,17 @@
 {
-  "name": "controller",
-  "version": "0.0.1",
+  "name": "starter",
+  "version": "0.0.0",
   "description": "> TODO: description",
-  "author": "xmm <876042606@qq.com>",
+  "author": "xiaomaomao <876042606@qq.com>",
   "homepage": "https://github.com/maomaofreedom/nest-app#readme",
   "license": "ISC",
   "main": "index.ts",
   "files": [
-    "src"
+    "lib"
   ],
+  "publishConfig": {
+    "registry": "https://registry.npm.taobao.org/"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maomaofreedom/nest-app.git"
@@ -21,6 +24,7 @@
   },
   "dependencies": {
     "@nestjs/common": "^7.0.13",
+    "controller": "^0.0.1",
     "entity": "^0.0.1",
     "service": "^0.0.1"
   }
