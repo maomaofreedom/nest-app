@@ -1,6 +1,6 @@
 {
   "name": "controller",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "xmm <876042606@qq.com>",
   "homepage": "https://github.com/maomaofreedom/nest-app#readme",
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@nestjs/common": "^7.0.13",
-    "entity": "^0.0.1",
-    "service": "^0.0.1"
+    "entity": "^0.0.2",
+    "service": "^0.0.2"
   }
 }
