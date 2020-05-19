@@ -1,1 +1,1 @@
-export * from "./lib/photoStarter"
+export * from './lib/photoStarter';

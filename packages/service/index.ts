@@ -1,1 +1,1 @@
-export * from "./src/photo.service"
+export * from './src/photo.service';

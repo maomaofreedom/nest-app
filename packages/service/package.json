@@ -24,5 +24,6 @@
     "@nestjs/typeorm": "^7.0.0",
     "entity": "^0.0.2",
     "typeorm": "^0.2.24"
-  }
+  },
+  "gitHead": "c266cbfe64807f830fbf33835688f6b1e0b4038e"
 }

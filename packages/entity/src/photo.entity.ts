@@ -2,21 +2,21 @@ import { Entity, Column, PrimaryColumn } from 'typeorm';
 
 @Entity()
 export class Photo {
-    @PrimaryColumn()
-    id: string;
+  @PrimaryColumn()
+  id: string;
 
-    @Column({ length: 64 })
-    name: string;
+  @Column({ length: 64 })
+  name: string;
 
-    @Column('text')
-    description: string;
+  @Column('text')
+  description: string;
 
-    @Column()
-    filename: string;
+  @Column()
+  filename: string;
 
-    @Column('int')
-    views: number;
+  @Column('int')
+  views: number;
 
-    @Column()
-    isPublished: boolean;
+  @Column()
+  isPublished: boolean;
 }

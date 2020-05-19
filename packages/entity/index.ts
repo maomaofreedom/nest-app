@@ -1,1 +1,1 @@
-export * from './src/photo.entity'
+export * from './src/photo.entity';

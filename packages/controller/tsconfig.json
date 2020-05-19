@@ -2,7 +2,8 @@
   "compilerOptions": {
     "outDir": "./dist",
     "baseUrl": "./",
-    "incremental": true
+    "incremental": true,
+    "experimentalDecorators":true
   },
   "exclude": ["node_modules"]
 }

@@ -23,5 +23,6 @@
     "@nestjs/common": "^7.0.13",
     "entity": "^0.0.2",
     "service": "^0.0.2"
-  }
+  },
+  "gitHead": "c266cbfe64807f830fbf33835688f6b1e0b4038e"
 }

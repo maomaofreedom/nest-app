@@ -1,1 +1,1 @@
-export * from "./src/photo.controller"
+export * from './src/photo.controller';
