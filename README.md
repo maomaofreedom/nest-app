@@ -38,3 +38,5 @@ $ npm run test:cov
 ## License
 
   Nest is [MIT licensed](LICENSE).
+  
+  https://usefulangle.com/post/170/nodejs-synchronous-http-request
